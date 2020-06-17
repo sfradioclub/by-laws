@@ -152,15 +152,6 @@ license commemorating the memory of John L. Stevens, W6PW, longtime Club member 
 to the FCC for a Club Call using the call sign W6PW, in the name of the San Francisco Amateur Radio Club, Inc., at the address of
 the trustee.
 
-## ARTICLE 18
-The Board of Directors may, upon the vote of the majority of members then present at a properly constituted Board of Director's meeting,
-empower the president to undertake whatever procedures are legally necessary to enable this organization to function under another
-name(s) (e.g., filing a Fictitious Business Name Statement, etc.)
-
-The Board of Directors may also, upon the vote of the members then present at a properly constituted Board of Director's meeting,
-ratify as its own, the past actions of the president regarding his efforts to enable this organization to function under another name(s)
-(e.g., ratify the filing of a previously filed Fictitious Business Name Statement, etc.)
-
 ---
 
 SUBMISSION OF ADOPTION
