@@ -40,16 +40,16 @@ Radio license from the FCC and be a fully paid member of the San Francisco Radio
 The Directors shall have the power to:
 1. Call special meetings of the members of this Club when the voting majority deem it necessary. A ten-day notice shall be given by first
 class mail to each member's last known address or validated e-mail address.
-2. Conduct, manage, and control the affairs of the Club and to effect rules and regulations for the guidance of the officers,
+1. Conduct, manage, and control the affairs of the Club and to effect rules and regulations for the guidance of the officers,
 committees, and the membership of the Club consistent with the By-Laws and Articles of Incorporation.
 
 ## ARTICLE 5
 ### DUTIES OF DIRECTORS
 1. To keep minutes of all Board of Directors meetings, acts and proceedings, and to present a report at the next regular meeting of the members.
-2. To supervise all officers in the performance of their duties.
-3. To issue certificates or cards of membership and to provide for cancellation of same, to members of this Club.
-4. To direct, manage and administer the affairs of this Club.
-5. To attend all Board of Directors meetings.
+1. To supervise all officers in the performance of their duties.
+1. To issue certificates or cards of membership and to provide for cancellation of same, to members of this Club.
+1. To direct, manage and administer the affairs of this Club.
+1. To attend all Board of Directors meetings.
 
 ## ARTICLE 6
 ### OFFICERS
@@ -64,10 +64,10 @@ October meeting.
 ### PRESIDENT
 It shall be the duty of the president:
 1. To preside over all meetings of this Club and shall not vote with the exception to break a tie or to vote in any matter pursuant to Article 11 (3).
-2. To sign, as president, all certificates or cards of membership, and all contracts and other instruments of writing which have been first approved by the Board of Directors.
-3. To call the directors together whenever the president deems it necessary, and shall have, subject to the advice of the Board of
+1. To sign, as president, all certificates or cards of membership, and all contracts and other instruments of writing which have been first approved by the Board of Directors.
+1. To call the directors together whenever the president deems it necessary, and shall have, subject to the advice of the Board of
 Directors, direction of the affairs of the Club, and generally shall discharge such other duties as may be required by the By-Laws.
-4. To appoint and terminate all committees and positions not otherwise herein provided, and be referred to as discretionary.
+1. To appoint and terminate all committees and positions not otherwise herein provided, and be referred to as discretionary.
 
 The president, or two of the directors, may call a meeting of the directors at any time, provided adequate notice is given.
 
@@ -85,36 +85,36 @@ and to keep proper account books and discharge such other duties as pertain to t
 may be signed by the president. At the first meeting of the newly elected Board of Directors, they shall set a monetary amount for
 expenditures which does not need prior authorization by the Board of Directors or the general membership; this amount shall be ratified
 by the general membership at the next meeting.
-2. To keep the corporate seal and blank certificates of membership, fill out and counter-sign all membership cards issued and make
+1. To keep the corporate seal and blank certificates of membership, fill out and counter-sign all membership cards issued and make
 corresponding entries of such issuances, and shall affix said corporate seal to all papers requiring a seal.
-3. To keep all proper and necessary books showing the number of membership cards issued, date of issuance and status of members.
-4. To prepare and file all governmental documents, including corporate statements and tax returns, etc.
+1. To keep all proper and necessary books showing the number of membership cards issued, date of issuance and status of members.
+1. To prepare and file all governmental documents, including corporate statements and tax returns, etc.
 
 ## ARTICLE 10
 ### SECRETARY
 It shall be the duty of the secretary:
 1. To keep a record of the proceedings of the Board of Directors, general and special meetings of the Club.
-2. To receive and read all communication to the members, to attend to all Club correspondence, and to perform such other duties, of like nature, as may be required.
+1. To receive and read all communication to the members, to attend to all Club correspondence, and to perform such other duties, of like nature, as may be required.
 
 ## ARTICLE 11
 ### MEMBERSHIP AND VOTING RIGHTS
 1. Any person of good moral character having an interest in amateur radio and having an interest in the aims of this Club may, upon
 proper application, and receiving a majority of the general membership votes then present, become a member, provided the membership fee
 is paid at the time of the application, and all further requirements set forth by the By-Laws and the Board of Directors are satisfied.
-2. A member otherwise in good standing but delinquent in dues (or indebted to the Club) after March of the membership year shall
+1. A member otherwise in good standing but delinquent in dues (or indebted to the Club) after March of the membership year shall
 automatically forfeit his/her membership without notice thereof. A member who has thus forfeited his/her membership shall have no
 membership rights and privileges, and shall not have any rights, title or interest in or to the property of this Club.
-3. The Board of Directors may suspend or expel a member by a simple majority vote of the entire members of the Board of Directors and
+1. The Board of Directors may suspend or expel a member by a simple majority vote of the entire members of the Board of Directors and
 at any meeting of the Board for failure or refusal to discharge his indebtedness to the Club, or for conduct prejudicial to the welfare,
 interest, order or character of this Club. Such vote must occur at a properly convened meeting of the Board of Directors.
-4. Each member, upon their election, shall receive a membership card showing valid membership in good standing of the Club and
+1. Each member, upon their election, shall receive a membership card showing valid membership in good standing of the Club and
 entitlement to all rights and privileges. It shall be the duty of each member to carry the Club membership card with them at all
 times. Upon receipt of said membership card, a member should place their signature thereon. It is also the duty of each member to
 notify the treasurer of any change of address and FCC license status.
-5. The Board of Directors may reinstate any member suspended for nonpayment of dues, or other indebtedness, upon full payment thereof
+1. The Board of Directors may reinstate any member suspended for nonpayment of dues, or other indebtedness, upon full payment thereof
 or upon such other terms as may be just, but a member expelled shall not be restored to membership unless by a two-third vote of the
 entire general membership.
-6. No member in good standing may vote on any matter, or in any election, unless said member has been a member of the Club for at
+1. No member in good standing may vote on any matter, or in any election, unless said member has been a member of the Club for at
 least 90 days preceding the vote. Said member must also be the holder of a valid US FCC Amateur Radio license or reciprocal permit
 by the voting date.
 
