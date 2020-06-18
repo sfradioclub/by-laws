@@ -47,7 +47,6 @@ committees, and the membership of the Club consistent with the By-Laws and Artic
 ### DUTIES OF DIRECTORS
 1. To keep minutes of all Board of Directors meetings, acts and proceedings, and to present a report at the next regular meeting of the members.
 1. To supervise all officers in the performance of their duties.
-1. To issue certificates or cards of membership and to provide for cancellation of same, to members of this Club.
 1. To direct, manage and administer the affairs of this Club.
 1. To attend all Board of Directors meetings.
 
@@ -64,7 +63,7 @@ October meeting.
 ### PRESIDENT
 It shall be the duty of the president:
 1. To preside over all meetings of this Club and shall not vote with the exception to break a tie or to vote in any matter pursuant to Article 11 (3).
-1. To sign, as president, all certificates or cards of membership, and all contracts and other instruments of writing which have been first approved by the Board of Directors.
+1. To sign, as president, all certificates, and all contracts and other instruments of writing which have been first approved by the Board of Directors.
 1. To call the directors together whenever the president deems it necessary, and shall have, subject to the advice of the Board of
 Directors, direction of the affairs of the Club, and generally shall discharge such other duties as may be required by the By-Laws.
 1. To appoint and terminate all committees and positions not otherwise herein provided, and be referred to as discretionary.
@@ -85,9 +84,8 @@ and to keep proper account books and discharge such other duties as pertain to t
 may be signed by the president. At the first meeting of the newly elected Board of Directors, they shall set a monetary amount for
 expenditures which does not need prior authorization by the Board of Directors or the general membership; this amount shall be ratified
 by the general membership at the next meeting.
-1. To keep the corporate seal and blank certificates of membership, fill out and counter-sign all membership cards issued and make
-corresponding entries of such issuances, and shall affix said corporate seal to all papers requiring a seal.
-1. To keep all proper and necessary books showing the number of membership cards issued, date of issuance and status of members.
+1. To keep the corporate seal, and shall affix said corporate seal to all papers requiring a seal.
+1. To keep all proper and necessary books showing the status of members.
 1. To prepare and file all governmental documents, including corporate statements and tax returns, etc.
 
 ## ARTICLE 10
@@ -107,10 +105,7 @@ membership rights and privileges, and shall not have any rights, title or intere
 1. The Board of Directors may suspend or expel a member by a simple majority vote of the entire members of the Board of Directors and
 at any meeting of the Board for failure or refusal to discharge his indebtedness to the Club, or for conduct prejudicial to the welfare,
 interest, order or character of this Club. Such vote must occur at a properly convened meeting of the Board of Directors.
-1. Each member, upon their election, shall receive a membership card showing valid membership in good standing of the Club and
-entitlement to all rights and privileges. It shall be the duty of each member to carry the Club membership card with them at all
-times. Upon receipt of said membership card, a member should place their signature thereon. It is also the duty of each member to
-notify the treasurer of any change of address and FCC license status.
+1.  It is the duty of each member to notify the treasurer of any change of address and FCC license status.
 1. The Board of Directors may reinstate any member suspended for nonpayment of dues, or other indebtedness, upon full payment thereof
 or upon such other terms as may be just, but a member expelled shall not be restored to membership unless by a two-third vote of the
 entire general membership.
