@@ -84,7 +84,7 @@ and to keep proper account books and discharge such other duties as pertain to t
 may be signed by the president. At the first meeting of the newly elected Board of Directors, they shall set a monetary amount for
 expenditures which does not need prior authorization by the Board of Directors or the general membership; this amount shall be ratified
 by the general membership at the next meeting.
-1. To keep the corporate seal and blank certificates of membership, and shall affix said corporate seal to all papers requiring a seal.
+1. To keep the corporate seal, and shall affix said corporate seal to all papers requiring a seal.
 1. To keep all proper and necessary books showing the status of members.
 1. To prepare and file all governmental documents, including corporate statements and tax returns, etc.
 
@@ -105,7 +105,7 @@ membership rights and privileges, and shall not have any rights, title or intere
 1. The Board of Directors may suspend or expel a member by a simple majority vote of the entire members of the Board of Directors and
 at any meeting of the Board for failure or refusal to discharge his indebtedness to the Club, or for conduct prejudicial to the welfare,
 interest, order or character of this Club. Such vote must occur at a properly convened meeting of the Board of Directors.
-1.  It is also the duty of each member to notify the treasurer of any change of address and FCC license status.
+1.  It is the duty of each member to notify the treasurer of any change of address and FCC license status.
 1. The Board of Directors may reinstate any member suspended for nonpayment of dues, or other indebtedness, upon full payment thereof
 or upon such other terms as may be just, but a member expelled shall not be restored to membership unless by a two-third vote of the
 entire general membership.
